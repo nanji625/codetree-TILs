@@ -1,7 +1,7 @@
 import sys
 
-s = sys.stdin.readline()
-t = sys.stdin.readline()
+s = sys.stdin.readline().strip()
+t = sys.stdin.readline().strip()
 
 print(t)
 print(s)
